@@ -12,7 +12,7 @@ Logistic regression can be used for modeling to analyze the effectiveness of adv
 on the results of logistic regression analysis, advertisers can
 make data-driven decisions to improve their advertising campaigns on social media platforms.
 
-Task Twon
+Task Two
 Solar Radiation Assignment
 . Neural-Network-Based Solar-Radiation Prediction
 This part of the assignment uses the dataset SolarPrediction.csv
