@@ -1,8 +1,10 @@
 DATA DRIVEN OPTIMIZATION
 
 Task One
+
 Logistic Regression for Social Media Analysis
-Logistic regression can be used to analyze advertising on social
+
+    Logistic regression can be used to analyze advertising on social
 networking platforms such as Facebook, Instagram, Twitter,
 LinkedIn, etc. These platforms offer companies and advertisers
 the opportunity to target specific demographic groups and user
@@ -13,6 +15,7 @@ on the results of logistic regression analysis, advertisers can
 make data-driven decisions to improve their advertising campaigns on social media platforms.
 
 Task Two
+
 Solar Radiation Assignment
 . Neural-Network-Based Solar-Radiation Prediction
 This part of the assignment uses the dataset SolarPrediction.csv
